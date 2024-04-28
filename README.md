@@ -31,27 +31,27 @@ END
 
 ## Building the Compiler
 
-To build the compiler for this language, follow these steps:
+##To build the compiler for this language, follow these steps:
 
-1. **Define the Grammar:** Write a context-free grammar (CFG) suitable for an LALR parser.
-2. **Generate Parser:** Use a parser generator that supports LALR, like Bison or ANTLR, to create the parser.
-3. **Implement Actions:** Define actions for each grammar rule to handle the semantics of the language.
+##1. **Define the Grammar:** Write a context-free grammar (CFG) suitable for an LALR parser.
+##2. **Generate Parser:** Use a parser generator that supports LALR, like Bison or ANTLR, to create the parser.
+$$3. **Implement Actions:** Define actions for each grammar rule to handle the semantics of the language.
 
 ## Running the Compiler
 
-- Compile the compiler code using a suitable C/C++ compiler.
-- Run the compiler executable with the path to the source code written in the mini-language.
+##- Compile the compiler code using a suitable C/C++ compiler.
+##- Run the compiler executable with the path to the source code written in the mini-language.
 
 ## Dependencies
 
-- Bison (for parser generation)
-- GCC (for compiling the compiler)
+##- Bison (for parser generation)
+##- GCC (for compiling the compiler)
 
 ## Contributing
 
-Feel free to fork the repository and submit pull requests with improvements or bug fixes.
+##Feel free to fork the repository and submit pull requests with improvements or bug fixes.
 
 ## License
 
-Specify the license under which the project is released.
+##Specify the license under which the project is released.
 
