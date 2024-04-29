@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project develops a simple compiler using an LALR parser for a custom mini-language. The language supports various data types, control structures, and allows basic operations.
+This project develops a simple compiler using an LALR parser for a custom mini-language. The language supports various data types, control structures, and allows basic operations
 
 ## Features
 
