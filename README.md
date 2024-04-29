@@ -6,7 +6,7 @@ This project develops a simple compiler using an LALR parser for a custom mini-l
 
 ## Features
 
-- **Data Types:** The language supports integers (`INTEGER`), real numbers (`REAL`), and strings (`STRING`).
+- **Data Types:** The language supports integers (`INTEGER`), real numbers (`REAL`),float numbers (`FLOAT`) and strings (`STRING`).
 - **Operations:** Allows arithmetic operations and variable assignments.
 - **Control Structures:** Features a FOR loop for repetitive execution of statements.
 
